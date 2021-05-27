@@ -6,9 +6,7 @@
   * **In the WeatherPy Folder is a sub folder titled Png_files.  This folder contains all .png files - related to WeatherPy.ipnb.  12 total**
 
 * **The VacationPy Folder contains Jupyter notebook file:  VacationPy.ipynb**
-  * **In the VacationPy  Folder is sub folder titled Png_files.  This folder contains the .png file  - related to VacationPy.ipynb.  2 total**
-
-
+  * **In the VacationPy  Folder is a sub a folder titled Png_files.  This folder contains the .png file  - related to VacationPy.ipynb.  2 total**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
